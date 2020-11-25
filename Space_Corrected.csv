@@ -1915,7 +1915,7 @@ Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France","Sun Dec 11, 198
 NASA,"LC-39B, Kennedy Space Center, Florida, USA","Fri Dec 02, 1988 14:30 UTC",Space Shuttle Atlantis | STS-27R,StatusRetired,450,Success
 RVSN USSR,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","Wed Nov 23, 1988 14:50 UTC",Zenit-2 | Cosmos 1980,StatusRetired,,Success
 RVSN USSR,"Site 90/19, Baikonur Cosmodrome, Kazakhstan","Fri Nov 18, 1988 00:12 UTC",Tsyklon-2 | Cosmos 1979,StatusRetired,,Success
-RVSN USSR,"Site 110/37, Baikonur Cosmodrome, Kazakhstan","Tue Nov 15, 1988 03:00 UTC",Energiya/Buran | Buran,StatusRetired,"5,000.00",Success
+RVSN USSR,"Site 110/37, Baikonur Cosmodrome, Kazakhstan","Tue Nov 15, 1988 03:00 UTC",Energiya/Buran | Buran,StatusRetired,,Success
 Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA","Sun Nov 06, 1988 18:03 UTC",Titan 34D | USA-33 (KH-11),StatusRetired,,Success
 Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France","Fri Oct 28, 1988 02:17 UTC",Ariane 2 | TDF-1,StatusRetired,,Success
 RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Tue Oct 25, 1988 18:02 UTC",Molniya-M /Block 2BL | Cosmos 1977,StatusRetired,,Success
@@ -1999,7 +1999,7 @@ RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia","Tue Jun 16, 1987 17:51 UTC"
 RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Jun 12, 1987 07:40 UTC",Molniya-M /Block 2BL | Cosmos 1851,StatusRetired,,Success
 RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia","Tue Jun 09, 1987 14:45 UTC",Cosmos-3M (11K65M) | Cosmos 1850,StatusRetired,,Success
 RVSN USSR,"Site 16/2, Plesetsk Cosmodrome, Russia","Thu Jun 04, 1987 18:50 UTC",Molniya-M /Block 2BL | Cosmos 1849,StatusRetired,,Success
-RVSN USSR,"Site 250, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 1987 17:30 UTC",Energiya/Polyus | Polyus Space Station,StatusRetired,"5,000.00",Success
+RVSN USSR,"Site 250, Baikonur Cosmodrome, Kazakhstan","Fri May 15, 1987 17:30 UTC",Energiya/Polyus | Polyus Space Station,StatusRetired,,Success
 General Dynamics,"SLC-3E, Vandenberg AFB, California, USA","Fri May 15, 1987 15:45 UTC",Atlas-H MSD | NOSS-9,StatusRetired,,Success
 RVSN USSR,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","Wed May 13, 1987 05:40 UTC",Zenit-2 | Cosmos 1844,StatusRetired,,Success
 RVSN USSR,"Site 32/2, Plesetsk Cosmodrome, Russia","Sun Apr 26, 1987 23:59 UTC",Tsyklon-3 | Cosmos 1842,StatusRetired,,Success
@@ -3148,7 +3148,7 @@ CNES,"ELD, Guiana Space Centre, French Guiana, France","Tue May 22, 1973 21:37 U
 RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri May 18, 1973 11:00 UTC",Soyuz U | Cosmos 559,StatusRetired,,Success
 RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Thu May 17, 1973 13:19 UTC",Cosmos-2I (63SM) | Cosmos 558,StatusRetired,,Success
 US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Wed May 16, 1973 16:40 UTC",Titan III(24)B | OPS 2093,StatusRetired,,Success
-NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon May 14, 1973 17:30 UTC",Saturn V | Skylab 1,StatusRetired,"1,160.00",Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon May 14, 1973 17:30 UTC",Saturn V | Skylab 1,StatusRetired,,Success
 RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Sat May 05, 1973 07:00 UTC",Voskhod | Cosmos 554,StatusRetired,,Success
 RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia","Wed Apr 25, 1973 10:45 UTC",Voskhod | Cosmos 555,StatusRetired,,Success
 RVSN USSR,"Site 90/19, Baikonur Cosmodrome, Kazakhstan","Wed Apr 25, 1973 09:10 UTC",Tsyklon-2 | Cosmos 556,StatusRetired,,Failure
@@ -3179,7 +3179,7 @@ RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia","Mon Dec 25, 1972 23:05 UTC"
 US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Thu Dec 21, 1972 17:45 UTC",Titan III(24)B | OPS 3978,StatusRetired,,Success
 RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia","Thu Dec 21, 1972 02:05 UTC",Cosmos-3M (11K65M) | Cosmos 539,StatusRetired,,Success
 General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA","Wed Dec 20, 1972 22:20 UTC",Atlas-SLV3A Agena-D | AFP-827 (Canyon-5),StatusRetired,,Success
-NASA,"LC-39A, Kennedy Space Center, Florida, USA","Tue Dec 19, 1972 19:24 UTC",Saturn V | Apollo 17,StatusRetired,"1,160.00",Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Tue Dec 19, 1972 19:24 UTC",Saturn V | Apollo 17,StatusRetired,,Success
 RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Dec 14, 1972 13:40 UTC",Voskhod | Cosmos 538,StatusRetired,,Success
 RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Tue Dec 12, 1972 06:51 UTC",Molniya-M /Block L | Molniya-2 n†­31,StatusRetired,,Success
 RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Dec 02, 1972 04:39 UTC",Molniya-M /Block L | Molniya-1 n†­30,StatusRetired,,Success
@@ -3242,7 +3242,7 @@ RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia","Sat May 06, 1972 11:24 UTC"
 RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri May 05, 1972 11:20 UTC",Voskhod | Cosmos 488,StatusRetired,,Success
 RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Apr 25, 1972 11:30 UTC",Cosmos-2I (63SM) | DS-P1-You #51,StatusRetired,,Failure
 RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Fri Apr 21, 1972 12:00 UTC",Cosmos-2I (63SM) | Cosmos 487,StatusRetired,,Success
-NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sun Apr 16, 1972 17:54 UTC",Saturn V | Apollo 16,StatusRetired,"1,160.00",Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sun Apr 16, 1972 17:54 UTC",Saturn V | Apollo 16,StatusRetired,,Success
 RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Apr 14, 1972 18:00 UTC",Voskhod | Cosmos 486,StatusRetired,,Success
 RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Apr 12, 1972",Molniya-M /Block SO-L | Prognoz n†­1,StatusRetired,,Success
 RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Apr 11, 1972 11:04 UTC",Cosmos-2I (63SM) | Cosmos 485,StatusRetired,,Success
@@ -3327,7 +3327,7 @@ RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Aug 03, 1971 11:00 UTC"
 RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Jul 30, 1971 08:29 UTC",Voskhod | Cosmos 431,StatusRetired,,Success
 RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia","Wed Jul 28, 1971 10:19 UTC",Voskhod | Cosmos 512,StatusRetired,,Success
 RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia","Wed Jul 28, 1971 03:29 UTC",Molniya-M /Block L | Molniya-1 n†­20,StatusRetired,,Success
-NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Jul 26, 1971 13:34 UTC",Saturn V | Apollo 15,StatusRetired,"1,160.00",Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Jul 26, 1971 13:34 UTC",Saturn V | Apollo 15,StatusRetired,,Success
 RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Jul 23, 1971 11:00 UTC",Voskhod | Cosmos 430,StatusRetired,,Success
 RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia","Thu Jul 22, 1971 13:45 UTC",Cosmos-3M (11K65M) | Tselina-OM #10,StatusRetired,,Failure
 RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Jul 20, 1971 10:00 UTC",Voskhod | Cosmos 429,StatusRetired,,Success
@@ -3383,7 +3383,7 @@ RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu Feb 18, 1971 13:59 UTC",
 RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia","Wed Feb 17, 1971 21:10 UTC",Cosmos-3M (11K65M) | Cosmos 395,StatusRetired,,Success
 ISAS,"Mu Pad, Uchinoura Space Center, Japan","Tue Feb 16, 1971 04:00 UTC",Mu-IV S | Tansei 1,StatusRetired,,Success
 RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia","Tue Feb 09, 1971 18:48 UTC",Cosmos-3M (11K65M) | Cosmos 394,StatusRetired,,Success
-NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sun Jan 31, 1971 21:03 UTC",Saturn V | Apollo 14,StatusRetired,"1,160.00",Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sun Jan 31, 1971 21:03 UTC",Saturn V | Apollo 14,StatusRetired,,Success
 RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Jan 26, 1971 12:44 UTC",Cosmos-2I (63SM) | Cosmos 393,StatusRetired,,Success
 General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA","Tue Jan 26, 1971 00:36 UTC",Atlas-SLV3C Centaur-D | Intelsat 4 F2,StatusRetired,,Success
 US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Thu Jan 21, 1971 18:28 UTC",Titan III(23)B | OPS 7776,StatusRetired,,Success
@@ -3474,7 +3474,7 @@ CASC,"Site 5020 (LA-2A), Jiuquan Satellite Launch Center, China","Fri Apr 24, 19
 RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Thu Apr 23, 1970 13:20 UTC",Cosmos-2I (63SM) | Cosmos 334,StatusRetired,,Success
 US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Wed Apr 15, 1970 15:52 UTC",Titan III(23)B | OPS 2863,StatusRetired,,Success
 RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Wed Apr 15, 1970 09:00 UTC",Voskhod | Cosmos 333,StatusRetired,,Success
-NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sat Apr 11, 1970 19:13 UTC",Saturn V | Apollo 13,StatusRetired,"1,160.00",Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sat Apr 11, 1970 19:13 UTC",Saturn V | Apollo 13,StatusRetired,,Success
 RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia","Sat Apr 11, 1970 17:00 UTC",Cosmos-3M (11K65M) | Cosmos 332,StatusRetired,,Success
 Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Apr 08, 1970 10:50 UTC",Titan IIIC | Vela 11 & 12,StatusRetired,,Success
 RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Apr 08, 1970 10:15 UTC",Voskhod | Cosmos 331,StatusRetired,,Success
@@ -3510,7 +3510,7 @@ RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia","Mon Nov 24, 1969 16:49 UTC"
 RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Mon Nov 24, 1969 11:04 UTC",Cosmos-2I (63SM) | Cosmos 311,StatusRetired,,Success
 CASC,"Site 5020 (LA-2A), Jiuquan Satellite Launch Center, China","Sun Nov 16, 1969",Long March 1 | Test flight,StatusRetired,,Failure
 RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sat Nov 15, 1969 08:30 UTC",Voskhod | Cosmos 310,StatusRetired,,Success
-NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 14, 1969 16:22 UTC",Saturn V | Apollo 12,StatusRetired,"1,160.00",Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Fri Nov 14, 1969 16:22 UTC",Saturn V | Apollo 12,StatusRetired,,Success
 RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Wed Nov 12, 1969 11:30 UTC",Voskhod | Cosmos 309,StatusRetired,,Success
 RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Nov 04, 1969 12:00 UTC",Cosmos-2I (63SM) | Cosmos 308,StatusRetired,,Success
 Yuzhmash,"Site 90/20, Baikonur Cosmodrome, Kazakhstan","Sat Nov 01, 1969 10:59 UTC",Tsyklon-2 | IS Mass Model,StatusRetired,,Success
@@ -3544,7 +3544,7 @@ RVSN USSR,"Site 90/19, Baikonur Cosmodrome, Kazakhstan","Wed Aug 06, 1969 05:40 
 RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Wed Jul 23, 1969 09:00 UTC",Cosmos-2I (63SM) | DS-P1-You #23,StatusRetired,,Failure
 RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Jul 22, 1969 12:55 UTC",Molniya-M /Block L | Molniya-1 n†­18,StatusRetired,,Success
 RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Tue Jul 22, 1969 12:30 UTC",Voskhod | Cosmos 290,StatusRetired,,Success
-NASA,"LC-39A, Kennedy Space Center, Florida, USA","Wed Jul 16, 1969 13:32 UTC",Saturn V | Apollo 11,StatusRetired,"1,160.00",Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Wed Jul 16, 1969 13:32 UTC",Saturn V | Apollo 11,StatusRetired,,Success
 RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Thu Jul 10, 1969 09:00 UTC",Voskhod | Cosmos 289,StatusRetired,,Success
 RVSN USSR,"Site 110/38, Baikonur Cosmodrome, Kazakhstan","Thu Jul 03, 1969 20:18 UTC",N1-L3 | 5L (Zond L1S-2),StatusRetired,,Failure
 CECLES,"LA-5B, RAAF Woomera Range Complex, Australia","Thu Jul 03, 1969 08:06 UTC",Europa 1 | STV-2,StatusRetired,,Failure
@@ -3559,7 +3559,7 @@ RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu May 29, 1969 06:59 U
 RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue May 27, 1969 13:00 UTC",Cosmos-2I (63SM) | Cosmos 283,StatusRetired,,Success
 Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri May 23, 1969 07:57 UTC","Titan IIIC | OPS-6909, OPS-6911, OV5-5, OV5-6, OV5-9",StatusRetired,,Success
 RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Tue May 20, 1969 08:40 UTC",Voskhod | Cosmos 282,StatusRetired,,Success
-NASA,"LC-39B, Kennedy Space Center, Florida, USA","Sun May 18, 1969 16:49 UTC",Saturn V | Apollo 10,StatusRetired,"1,160.00",Success
+NASA,"LC-39B, Kennedy Space Center, Florida, USA","Sun May 18, 1969 16:49 UTC",Saturn V | Apollo 10,StatusRetired,,Success
 RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Tue May 13, 1969 09:15 UTC",Voskhod | Cosmos 281,StatusRetired,,Partial Failure
 RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Apr 23, 1969 09:55 UTC",Voskhod | Cosmos 280,StatusRetired,,Success
 US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Tue Apr 15, 1969 17:30 UTC",Titan IIIB | OPS 5310,StatusRetired,59,Success
@@ -3583,7 +3583,7 @@ RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Thu Mar 06, 1969 12:15 UTC",
 RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia","Wed Mar 05, 1969 17:25 UTC",Cosmos-3M (11K65M) | Cosmos 269,StatusRetired,,Success
 RVSN USSR,"Site 86/1, Kapustin Yar, Russia","Wed Mar 05, 1969 13:04 UTC",Cosmos-2I (63SM) | Cosmos 268,StatusRetired,,Success
 US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Tue Mar 04, 1969 19:30 UTC",Titan IIIB | OPS 4248,StatusRetired,59,Success
-NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Mar 03, 1969 16:00 UTC",Saturn V | Apollo 9,StatusRetired,"1,160.00",Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Mon Mar 03, 1969 16:00 UTC",Saturn V | Apollo 9,StatusRetired,,Success
 RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Feb 26, 1969 08:30 UTC",Voskhod | Cosmos 267,StatusRetired,,Success
 RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Tue Feb 25, 1969 10:20 UTC",Voskhod | Cosmos 266,StatusRetired,,Success
 General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA","Tue Feb 25, 1969 01:29 UTC",Atlas-SLV3C Centaur-D | Mariner 6,StatusRetired,,Success
@@ -3602,7 +3602,7 @@ RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Sun Jan 12, 1969 12:10 UTC",
 RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 10, 1969 05:51 UTC",Molniya-M /Block VL | Venera 6,StatusRetired,,Success
 RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Jan 05, 1969 06:28 UTC",Molniya-M /Block VL | Venera 5,StatusRetired,,Success
 RVSN USSR,"Site 86/1, Kapustin Yar, Russia","Thu Dec 26, 1968 09:45 UTC",Cosmos-2I (63SM) | Cosmos 262,StatusRetired,,Success
-NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sat Dec 21, 1968 12:51 UTC",Saturn V | Apollo 8,StatusRetired,"1,160.00",Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Sat Dec 21, 1968 12:51 UTC",Saturn V | Apollo 8,StatusRetired,,Success
 RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Thu Dec 19, 1968 23:55 UTC",Cosmos-2I (63SM) | Cosmos 261,StatusRetired,,Success
 RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Dec 16, 1968 09:15 UTC",Molniya-M /Block L | Cosmos 260,StatusRetired,,Success
 RVSN USSR,"Site 86/1, Kapustin Yar, Russia","Sat Dec 14, 1968 05:09 UTC",Cosmos-2I (63SM) | Cosmos 259,StatusRetired,,Success
@@ -3682,7 +3682,7 @@ RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sun Apr 14, 1968 10:00 U
 RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Apr 09, 1968 11:26 UTC",Cosmos-2I (63SM) | Cosmos 211,StatusRetired,,Success
 RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Apr 07, 1968 10:09 UTC",Molniya-M /Block L | Luna 14,StatusRetired,,Success
 General Dynamics,"LC-576A2, Vandenberg AFB, California, USA","Sat Apr 06, 1968 09:59 UTC",Atlas-E/F OV1 | OV1-13/OV1-14,StatusRetired,,Success
-NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Apr 04, 1968 12:00 UTC",Saturn V | Apollo 6,StatusRetired,"1,160.00",Partial Failure
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Apr 04, 1968 12:00 UTC",Saturn V | Apollo 6,StatusRetired,,Partial Failure
 RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Wed Apr 03, 1968 11:00 UTC",Voskhod | Cosmos 210,StatusRetired,,Success
 OKB-586,"Site 41/15, Baikonur Cosmodrome, Kazakhstan","Thu Mar 28, 1968",Cosmos-3 (11K65) | VKZ,StatusRetired,,Success
 RVSN USSR,"Site 90/19, Baikonur Cosmodrome, Kazakhstan","Fri Mar 22, 1968 09:30 UTC",Tsyklon-2A | Cosmos 209,StatusRetired,,Success
@@ -3715,7 +3715,7 @@ RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Sat Nov 25, 1967 11:30 UTC",
 RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia","Thu Nov 23, 1967 15:00 UTC",Cosmos-3M (11K65M) | Cosmos 192,StatusRetired,,Success
 RVSN USSR,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Wed Nov 22, 1967 19:07 UTC",Proton K/Block D | Zond,StatusRetired,,Failure
 RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Nov 21, 1967 14:29 UTC",Cosmos-2I (63SM) | Cosmos 191,StatusRetired,,Success
-NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Nov 09, 1967 12:00 UTC",Saturn V | Apollo 4,StatusRetired,"1,160.00",Success
+NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Nov 09, 1967 12:00 UTC",Saturn V | Apollo 4,StatusRetired,,Success
 General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA","Tue Nov 07, 1967 07:39 UTC",Atlas-SLV3C Centaur-D | Surveyor 6,StatusRetired,,Success
 General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA","Sun Nov 05, 1967 23:37 UTC",Atlas-SLV3 Agena-D | ATS-3,StatusRetired,,Success
 RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Fri Nov 03, 1967 11:20 UTC",Voskhod | Cosmos 190,StatusRetired,,Success
